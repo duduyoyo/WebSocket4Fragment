@@ -1,5 +1,5 @@
 # WebSocket4Fragment
-THe only WebSocket solution to handle fragment dynamically, the first time ever!<p>
+The only WebSocket solution to handle fragment dynamically, the first time ever!<p>
 This ultimate echo server can satisfy your every need of WebSocket development! The flexible asynchronous client can also be used for any WebSocket server supporting ws/wss and http/https schemas!
 
 <h2>Pre-requiste</h2>
