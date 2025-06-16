@@ -4,7 +4,7 @@ This ultimate echo server can satisfy your every need of WebSocket development! 
 
 <h2>Pre-requiste</h2>
 WebSocket feature for IIS need be enabled<p><p>
-<img src="https://github.com/user-attachments/assets/3546c0ea-18d4-4e6e-968e-52802669da1a" width=40%>
+<img src="https://github.com/user-attachments/assets/5bcb522e-381f-4fb0-98db-769b3aee7e43" width=40%>
 
 <h2>Installation</h2>
 Download all files from server folder to your desired one. Launch a command line with administrator privilege and enter to your download folder. Run command "install.bat userAccount userPassword" to complete installation. userAccount/userPassword need be your own Windows credential and make sure that it has administrator privilege. This credential is only used by IIS in configuring a new app pool and not used by this solution or stored anywhere else.<p><p>
